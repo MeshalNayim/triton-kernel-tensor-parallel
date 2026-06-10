@@ -73,4 +73,3 @@ figs/                    collective-operation diagrams
 
 ---
 
-Coursework for CSE 291 / DSC 291 (Machine Learning Systems), UC San Diego.
